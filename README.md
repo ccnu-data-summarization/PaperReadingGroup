@@ -1,14 +1,9 @@
 <html>
 <body>
 <a name="top"></a>
-<h1>胡老师的 Paper Reading Group</h1>
-
-  <h2>Data Summarization and Generation</h2>
-
-  <b>参与人员：</b>
-  胡珀、侯丽微、王霞、曾虹、邓露、高含宁、滕宇、姜晓苹、刘冰琳<br>
-  <b>组会讨论时间及地点</b>
-  每周五下午2:30；地点另行通知<br> 
+<h1>Data Summarization and Generation</h1>
+  <b>参与人员：</b>胡珀老师、侯丽微、王霞、曾虹、邓露、高含宁、滕宇、姜晓苹、刘冰琳<br>
+  <b>组会讨论时间及地点：</b>每周五下午2:30；地点另行通知<br> 
 
 
 <h2>汇报安排</h2>
