@@ -19,7 +19,7 @@
     <td>姜晓苹</td>
     <td>论文分享：Improving Abstraction in Text Summarization（2018）</td>
     <td>
-      [<a href="http://cn.arxiv.org/abs/1808.07913">paper</a>]</br>
+      [<a href="http://cn.arxiv.org/abs/1808.07913">paper</a>]<br>
       [<a href = "uploadFiles/20181012组会-姜晓苹论文分享.pptx">汇报ppt</a>]
     </td>
   </tr>
