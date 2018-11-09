@@ -41,8 +41,11 @@
  <tr id="bord">
     <td rowspan="2">11月9日</td>
     <td>侯丽微</td>
-    <td></td>
-    <td></td>
+    <td>论文分享：Fast Abstractive Summarization with Reinforce-Selected Sentence Rewriting</td>
+    <td>
+      [<a href="https://arxiv.org/abs/1805.11080?context=cs.LG">paper</a>]<br>
+      [<a href = "uploadFiles/20181108-侯丽微.pptx">汇报ppt</a>]
+  </td>
   </tr>
 
  <tr id="bord">
